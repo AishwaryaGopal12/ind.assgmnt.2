@@ -1,0 +1,19 @@
+Package: ind.assgmnt.2
+Title: Factor handling
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Aishwarya",
+           family = "Gopal",
+           role = c("aut", "cre"),
+           email = "aishwaryagopal12@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
+Imports: 
+    forcats
